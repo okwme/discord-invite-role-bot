@@ -13,7 +13,7 @@ There's a file called `config.json.example`. Rename it `config.json` and add you
 ```sh
 cp config.json.example config.json
 ```
-You may want to delete the contents of `invites.json` which is used to store the invite codes. It is currently filled with invite codes for the Cosmos Network discord.
+You may want to delete the contents of `invites.json` which is used to store the invite codes. It is currently filled with invite codes for the [Cosmos Network discord](https://discord.gg/vcExX9T).
 ```sh
 echo "{}" > invites.json
 ```
@@ -27,4 +27,26 @@ You may want to use pm2 to run it on a server so it records logs and will restar
 ```sh
 pm2 start discord-invite-role-bot
 pm2 save
+```
+
+## Use
+Make sure the bot is:
+ * added to your server
+ * has admin permissions
+ * in the list of roles the bot shows up above any roles it will be managing
+
+To list all links
+```
+~list
+```
+
+To add a new role use:
+```
+~add https://discord.gg/abcdegh @role-name
+```
+
+To remove a role:
+```
+// NOT IMPLEMENTED
+~remove https://discord.gg/abcdefgh
 ```
