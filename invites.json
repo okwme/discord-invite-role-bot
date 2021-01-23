@@ -1,0 +1,134 @@
+{
+  "vnZ2JqHZ": {
+    "roleID": "768510436055580672",
+    "name": "jobs"
+  },
+  "agcvxzY3g4": {
+    "roleID": "768510436055580672",
+    "name": "jobs"
+  },
+  "vnAvHjWP4Y": {
+    "roleID": "801464090709983295",
+    "name": "grants"
+  },
+  "bdYFFqk4ud": {
+    "roleID": "768510822229475368",
+    "name": "initiatives"
+  },
+  "p7XNaYRCST": {
+    "roleID": "768510971349696533",
+    "name": "daos-unifi"
+  },
+  "g8vYRa9zQJ": {
+    "roleID": "798941004467929108",
+    "name": "validator-channels"
+  },
+  "qPTF4TPPRk": {
+    "roleID": "768510657200390164",
+    "name": "cosmos-hub"
+  },
+  "kAGK7CxUvS": {
+    "roleID": "768510657200390164",
+    "name": "cosmos-hub"
+  },
+  "PvRvVAMgX9": {
+    "roleID": "768510682018611260",
+    "name": "cosmos-bigbang-testnet"
+  },
+  "nr3g3NnTep": {
+    "roleID": "776061224613838858",
+    "name": "cosmos-stargate-testnet"
+  },
+  "dkubTXerEW": {
+    "roleID": "768511177452945479",
+    "name": "cosmos-sdk"
+  },
+  "ABNV45SKN6": {
+    "roleID": "768511177452945479",
+    "name": "cosmos-sdk"
+  },
+  "ug8axY5cty": {
+    "roleID": "768511177452945479",
+    "name": "cosmos-sdk"
+  },
+  "cY5UEMk2JZ": {
+    "roleID": "768511201645821983",
+    "name": "cosmos-sdk-launchpad"
+  },
+  "Tn7WrSctKX": {
+    "roleID": "768511226648723457",
+    "name": "cosmos-sdk-stargate"
+  },
+  "ECQA4pVanW": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "GaVpeSJtFy": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "xE2UZAr4F2": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "gaVP5bQF5X": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "fkEvXRYWzM": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "K7vRfkQn5y": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "bj8KAJxy9M": {
+    "roleID": "800759916670222356",
+    "name": "modules"
+  },
+  "uKHN7UNXHS": {
+    "roleID": "768512977900666891",
+    "name": "tendermint"
+  },
+  "QsEzGdSMuT": {
+    "roleID": "768512977900666891",
+    "name": "tendermint"
+  },
+  "rPFPxVJmUZ": {
+    "roleID": "768511019534123071",
+    "name": "ibc"
+  },
+  "6QPt8aF556": {
+    "roleID": "768511019534123071",
+    "name": "ibc"
+  },
+  "cSMbjMqH5Z": {
+    "roleID": "768511019534123071",
+    "name": "ibc"
+  },
+  "H5C3c5ZTwv": {
+    "roleID": "768512771045851198",
+    "name": "libraries-cosmjs"
+  },
+  "byVezqyBaE": {
+    "roleID": "768512771045851198",
+    "name": "libraries-cosmjs"
+  },
+  "qZKBXfy9yH": {
+    "roleID": "776016965126979584",
+    "name": "research-cryptography"
+  },
+  "NZ7DjerbkZ": {
+    "roleID": "768511957492957184",
+    "name": "research-liquid-staking"
+  },
+  "njwDUVA7We": {
+    "roleID": "768511932876718100",
+    "name": "research-privacy"
+  },
+  "GYfeUvk3Sj": {
+    "roleID": "768512002859466822",
+    "name": "research-rust"
+  }
+}
