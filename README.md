@@ -19,11 +19,11 @@ echo "{}" > invites.json
 ```
 
 ## Running
-This is a singel file node app so it can be run like:
+This is a single file node.js app so it can be run like:
 ```sh
 node index.js
 ```
-You may want to use pm2 to run it on a server so it records logs and will restart if it crashes:
+You may want to use [pm2](https://pm2.keymetrics.io/) to run it on a server so it records logs and will restart if it crashes:
 ```sh
 pm2 start discord-invite-role-bot
 pm2 save
@@ -36,17 +36,17 @@ Make sure the bot is:
  * in the list of roles the bot shows up above any roles it will be managing
 
 To list all links
-```
+```sh
 ~list
 ```
 
 To add a new role use:
-```
+```sh
 ~add https://discord.gg/abcdegh @role-name
 ```
 
 To remove a role:
-```
+```sh
 // NOT IMPLEMENTED
 ~remove https://discord.gg/abcdefgh
 ```
